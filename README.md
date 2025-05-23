@@ -30,34 +30,26 @@ Desenvolvedor Python com foco em aplicações web e sistemas de automação. Atu
 
 ## 🚀 Projetos em Destaque
 
-### [Paulina Salgados](https://github.com/ezerodrigues/paulina-salgados)
+### 🥐 [Paulina Salgados](https://github.com/ezerodrigues/paulina-salgados) - ([Ver Deploy](https://paulina-app-hmgir.ondigitalocean.app/))
 Sistema web para gestão de catálogo de salgados desenvolvido com Flask, SQLAlchemy e interface HTML responsiva. Ideal para pequenos negócios do ramo alimentício.
-- **Tecnologias**: Python, Flask, SQLAlchemy, HTML/CSS
-- **Recursos**: Autenticação, CRUD, upload de imagens, interface responsiva
-### 🥐 [Paulina Salgados](https://github.com/ezerodrigues/paulina-salgados ) - ([Ver Deploy](https://paulina-app-hmgir.ondigitalocean.app/ ))
-
-Sistema web para gestão de catálogo de salgados desenvolvido com Flask, SQLAlchemy e interface HTML responsiva. Ideal para pequenos negócios do ramo alimentício.
-
 *   **Tecnologias**: Python, Flask, SQLAlchemy, HTML/CSS
 *   **Recursos**: Autenticação, CRUD, upload de imagens, interface responsiva
 *   **Status**: Online na DigitalOcean
 
-
-### [Buscador de Letras de Músicas](https://github.com/ezerodrigues/projeto-letra-musica)
+### 🎵 [Buscador de Letras de Músicas](https://github.com/ezerodrigues/projeto-letra-musica)
 Aplicação web que permite buscar letras de músicas de forma rápida e simples, consultando a API lyrics.ovh.
-- **Tecnologias**: Python, Streamlit, Requests
-- **Recursos**: Interface intuitiva, exibição estilizada, feedback visual
+*   **Tecnologias**: Python, Streamlit, Requests
+*   **Recursos**: Interface intuitiva, exibição estilizada, feedback visual
 
-### [Reconhecimento de Mãos com IA](https://github.com/ezerodrigues/projeto_ia)
+### 🖐️ [Reconhecimento de Mãos com IA](https://github.com/ezerodrigues/projeto_ia)
 Sistema de reconhecimento de mãos em tempo real utilizando Inteligência Artificial através da webcam.
-- **Tecnologias**: Python, OpenCV, MediaPipe, CVZone
-- **Recursos**: Detecção de múltiplas mãos, rastreamento em tempo real
+*   **Tecnologias**: Python, OpenCV, MediaPipe, CVZone
+*   **Recursos**: Detecção de múltiplas mãos, rastreamento em tempo real
 
 ## 📊 Estatísticas GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ezerodrigues&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ezerodrigues&layout=compact&theme=radical)
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ezerodrigues&show_icons=true&theme=radical&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ezerodrigues&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Formação e Aprendizado Contínuo
 
