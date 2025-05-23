@@ -34,6 +34,14 @@ Desenvolvedor Python com foco em aplicações web e sistemas de automação. Atu
 Sistema web para gestão de catálogo de salgados desenvolvido com Flask, SQLAlchemy e interface HTML responsiva. Ideal para pequenos negócios do ramo alimentício.
 - **Tecnologias**: Python, Flask, SQLAlchemy, HTML/CSS
 - **Recursos**: Autenticação, CRUD, upload de imagens, interface responsiva
+### 🥐 [Paulina Salgados](https://github.com/ezerodrigues/paulina-salgados ) - ([Ver Deploy](https://paulina-app-hmgir.ondigitalocean.app/ ))
+
+Sistema web para gestão de catálogo de salgados desenvolvido com Flask, SQLAlchemy e interface HTML responsiva. Ideal para pequenos negócios do ramo alimentício.
+
+*   **Tecnologias**: Python, Flask, SQLAlchemy, HTML/CSS
+*   **Recursos**: Autenticação, CRUD, upload de imagens, interface responsiva
+*   **Status**: Online na DigitalOcean
+
 
 ### [Buscador de Letras de Músicas](https://github.com/ezerodrigues/projeto-letra-musica)
 Aplicação web que permite buscar letras de músicas de forma rápida e simples, consultando a API lyrics.ovh.
