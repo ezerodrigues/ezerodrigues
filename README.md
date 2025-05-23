@@ -68,5 +68,3 @@ Estou sempre aberto a novas oportunidades, colaborações e troca de conheciment
 ---
 
 ⭐️ De [ezerodrigues](https://github.com/ezerodrigues)
-
-![Snake animation](https://github.com/ezerodrigues/ezerodrigues/blob/output/github-contribution-grid-snake.svg)
